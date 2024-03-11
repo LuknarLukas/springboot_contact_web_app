@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/lukasluknar/Desktop/contacts_book/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/lukasluknar/Desktop/contacts_book/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/lukasluknar/Desktop/contacts_book/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/lukasluknar/Desktop/contacts_book/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/lukasluknar/Desktop/contacts_book/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/lukasluknar/Desktop/contacts_book/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/lukasluknar/Desktop/contacts_book/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/lukasluknar/Desktop/contacts_book/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/lukasluknar/Desktop/contacts_book/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
